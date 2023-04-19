@@ -1,5 +1,3 @@
-# Coding-Ninjas-Meals
-
 Language Used
 
   i.   Vanilla JS
